@@ -1,0 +1,18 @@
+{
+  "app_usage": {
+    "Code.exe": 18.476747,
+    "python.exe": 326.1389799999999,
+    "chrome.exe": 486.999615,
+    "explorer.exe": 2.026332,
+    "SnippingTool.exe": 34.270722000000006
+  },
+  "daily_usage": {
+    "2025-09-02": 650.9586920000003,
+    "2025-09-06": 216.9537039999999
+  },
+  "app_limits": {
+    "Chrome": 60
+  },
+  "break_interval": 1,
+  "last_saved": "2025-09-06T20:56:54.679821"
+}
