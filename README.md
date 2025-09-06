@@ -17,7 +17,7 @@ A desktop application built with Python (Tkinter) that helps manage and track sc
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Tesseract.git
+git clone https://github.com/cryosleeperX20/Tesseract.git
 cd Tesseract
 
 Install dependencies:
